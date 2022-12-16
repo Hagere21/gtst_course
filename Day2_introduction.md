@@ -41,3 +41,19 @@ part of computer that helps to work on.
 ● High Graphics
 ● Quality
 >? Do You have slow pc…
+Why Linux?
+● Most used
+● 47% of professional developers use Linux-based
+operating systems.
+● Linux powers 39.2% of websites whose operating
+system is known.
+● Linux powers 85% of smartphones. (Hayden James)
+● Linux, the third most popular desktop OS, has a
+market share of 2.09%.
+● The Linux market size worldwide will reach $15.64
+billion by 2027.
+● The world’s top 500 fastest supercomputers all run on
+Linux.
+● 96.3% of the top one million web servers are running
+Linux.
+● Today, there are over 600 active Linux distros
