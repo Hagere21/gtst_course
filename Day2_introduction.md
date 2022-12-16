@@ -35,3 +35,9 @@ part of computer that helps to work on.
 ○ Desktop environment
 ○ File extensions
 ○ Window manager
+# Which Desktop environment is best?
+>> Speed depends on:
+● Animations
+● High Graphics
+● Quality
+>? Do You have slow pc…
