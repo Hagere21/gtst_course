@@ -58,4 +58,5 @@ more experience
 VULNERABILITY<br>
 ★ MOTIVE:- Information theft, manipulating data,
 Financial loss,Revenge, Ransom, Damaging
-Reputation.
+Reputation.<br>
+# END
