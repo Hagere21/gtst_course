@@ -28,4 +28,34 @@ to the organization.<br>
   The most evil and bad Peoples<br>
   ➔White HAT hackers---
   The helping and Good Peoples
-  dhsadn
+ ➔  Grey HAT hackers---
+The middle mans ,
+Good sometimes bad thinking
+Peoples
+➔Grey HAT hackers---
+ The middle mans ,
+Good sometimes bad thinking
+Peoples
+➔Newbie / Noob---
+ Don’t have any knowledge
+about hacking.
+➔Script Kiddie---
+A script kiddie, skiddie,
+kiddie, or skid is a relatively
+unskilled individual who
+uses scripts or programs
+developed by others,
+primarily for malicious
+purposes
+➔Hacker---
+* Perfectly skilled, with less
+experience
+➔Elite/Pro Hacker
+* Perfectly skilled, with Much
+more experience
+# Why hack happens?
+★ ATTACKS = MOTIVE(GOAL) + METHOD +
+VULNERABILITY<br>
+★ MOTIVE:- Information theft, manipulating data,
+Financial loss,Revenge, Ransom, Damaging
+Reputation.
