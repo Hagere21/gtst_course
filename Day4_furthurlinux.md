@@ -50,7 +50,7 @@ The only root user has the right has the right to write under this directory
     Files under this directory are deleted when system is rebooted.
 13. /usr -User utilities
 
-- contains binaries,liberaries,documentation,and source-code for second level programs.
+* contains binaries,liberaries,documentation,and source-code for second level programs.
 - /usr/bin contains contains binary under files for user programs.If you can't find a user binaryunder /bin ,look under /usr/bin. For e.g : at,awk,cc,less,scp
 - /usr/sbin contains contains binary files for system adminstrators. If you can't find a system binary under /sbin,look under /usr/sbin. FOR E.G:atd,cron,sshd,useradd,userdel
 - /usr/lib contains libraries for /usr/bin and /usr/sbin
